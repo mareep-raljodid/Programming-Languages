@@ -1,0 +1,7 @@
+Laundry, Do your laundry, 10:00 pm
+Dishes, Clean your dishes, 11:00 am
+Bedroom, Clean your room!,  9:00 am
+Bathroom Cleaning, Clean the bathroom, 10:00 pm
+Takeout the trash, Take out the garbage, 7:00 pm
+Grocery Shopping, Buy Groceries, 5:00 pm
+Phone Bill Payments, Pay your phone bill, 10:00 pm
