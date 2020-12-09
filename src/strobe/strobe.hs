@@ -17,23 +17,24 @@ determineReminder (x, y) = z where
     else 0
 
 main = do 
-  if determineReminder(laundry, 4) == 1 then print("Laundry needs to be done")
-  else print("Laundry does not need to be done")
+  if determineReminder(laundry, 4) == 1 then print(1)
+  else print(0)
 
-  if determineReminder(dishes, 4) == 1 then print("Dishes needs to be done")
-  else print("Dishes don't need to be done")
+  if determineReminder(dishes, 4) == 1 then print(1)
+  else print(0)
 
-  if determineReminder(cleanBedroom, 4) == 1 then print("Clean bedroom needs to be done")
-  else print("Clean bedroom does not need to be done")
+  if determineReminder(cleanBedroom, 4) == 1 then print(1)
+  else print(0)
 
-  if determineReminder(cleanBathroom, 4) == 1 then print("Clean bathroom needs to be done")
-  else print("Clean bathroom does not need to be done")
+  if determineReminder(cleanBathroom, 4) == 1 then print(1)
+  else print(0)
 
-  if determineReminder(trash, 4) == 1 then print("Trash needs to be done")
-  else print("Trash does not need to be done")
+  if determineReminder(trash, 4) == 1 then print(1)
+  else print(0)
 
-  if determineReminder(groceryShopping, 4) == 1 then print("Grocery shopping needs to be done")
-  else print("Grocery shopping does not need to be done")
+  if determineReminder(groceryShopping, 4) == 1 then print(1)
+  else print(0)
 
-  if determineReminder(phoneBill, 4) == 1 then print("Phone bill needs to be done")
-  else print("Phone bill does not need to be done")
+  if determineReminder(phoneBill, 4) == 1 then print(1)
+  else print(0)
+
